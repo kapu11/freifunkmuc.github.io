@@ -8,6 +8,9 @@ permalink: /firmware/
 
 Wir unterstützen aktuell verschiedene Routermodelle. Am Besten siehst Du vor dem Kauf nach welchen Router-Typ und Hardware-Version wir unterstüzten. Oft bringen Hersteller neue Hardware-Versionen eines Routers auf den Markt, für diese können wir erst oft nach einiger Zeit oder garnicht passende Firmware anbieten. Es kann daher sinnvoll sein gebrauchte Router (die wahrscheinlich eine ältere Hardware-Version sind) oder Router bei einem Treffen zu kaufen.
 
+Achtung: Aktuell (Stand Juli 2019) findet Ihr auf diesen Seiten noch vielfach Empfehlungen und Beschreibungen zu Routern, die demnächst nicht mehr unterstützt werden. Bitte beachtet hierzu diese Seite https://ffmuc.net/freifunkmuc/2019/07/11/austausch-aelterer-geraete/
+Auch weicht der Vorgang für das Flashen eines Routers u.U. von bisherigen Beschreibungen ab - insbesondere für die AVM Geräte.
+
 ## Router-Daten herausfinden
 
 Zunächst musst Du prüfen, welche Firmware Du benötigst. Wichtig ist der Router-Typ (1) und die Hardware-Version (2). Beide Informationen findest Du auf der Rückseite Deines Geräts.
